@@ -9,3 +9,4 @@ console.log(`Company Name: ${companyName}`);
 console.log('Mobile Number:'+mobileNumber);
 console.log('IsAutomation: '+isAutomation);
 console.log('hasPlaywright: '+typeof hasPlaywright);
+console.log(`Type of Mobile Number `+typeof mobileNumber);
